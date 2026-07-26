@@ -2,7 +2,7 @@
 <h3 align="center">Turning numbers into narratives, one model at a time 🧠📊</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=B.Sc+in+AI+%26+Data+Science+%40+IIT+Jodhpur;Exploring+AI%2C+Math+%26+Machine+Learning;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+%40+IIT+Jodhpur;Exploring+AI%2C+Math+%26+Machine+Learning;Turning+Data+into+Decisions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ```yaml
 whoami:
   name: "Soumya Sekhar Shee"
-  role: "B.Sc AI & Data Science student @ IIT Jodhpur"
+  role: "AI & Data Science student @ IIT Jodhpur"
   passion: ["Artificial Intelligence", "Mathematics", "Machine Learning"]
   currently_exploring: "the math behind the models"
   mission: "turning raw data into decisions worth making"
