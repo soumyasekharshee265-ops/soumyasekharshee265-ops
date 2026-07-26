@@ -1,8 +1,9 @@
-<h1 align="center">Hi there, I'm Soumya Sekhar Shee 👋</h1>
-<h3 align="center">Turning numbers into narratives, one model at a time 🧠📊</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Soumya%20Sekhar%20Shee&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Chasing%20patterns%20in%20data,%20equations,%20and%20the%20stars&descAlignY=58&descSize=18" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+%40+IIT+Jodhpur;Exploring+AI%2C+Math+%26+Machine+Learning;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=B.Sc+in+AI+%26+Data+Science+%40+IIT+Jodhpur;Obsessed+with+the+math+behind+the+models;Probably+debugging+a+model+at+2+AM;Future+goal%3A+AI+researcher+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,17 +11,6 @@
   <a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-```yaml
-whoami:
-  name: "Soumya Sekhar Shee"
-  role: "AI & Data Science student @ IIT Jodhpur"
-  passion: ["Artificial Intelligence", "Mathematics", "Machine Learning"]
-  currently_exploring: "the math behind the models"
-  mission: "turning raw data into decisions worth making"
-```
 
 ---
 
@@ -65,11 +55,25 @@ whoami:
 
 **Machine Learning**
 
+<p><i>Supervised</i></p>
 <p>
+  <img src="https://img.shields.io/badge/Linear%20Regression-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Logistic%20Regression-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SVM-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Decision%20Trees-FF8C00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/KNN-FF8C00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Naive%20Bayes-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Decision%20Tree-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linear%20Regression-FF8C00?style=for-the-badge" />
+</p>
+
+<p><i>Unsupervised</i></p>
+<p>
+  <img src="https://img.shields.io/badge/K--Means%20Clustering-EF476F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PCA-EF476F?style=for-the-badge" />
+</p>
+
+<p><i>Ensemble</i></p>
+<p>
+  <img src="https://img.shields.io/badge/Random%20Forest-06A77D?style=for-the-badge" />
 </p>
 
 **DSA**
