@@ -101,7 +101,7 @@
 
 ---
 
-🌟 Journey & Goals</h3>
+### 🌟 Journey & Goals</h3>
 
 <p align="center">🚀 <strong>Ready for My Next Challenge</strong></p>
 
