@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm Soumya Sekhar Shee</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Always+Learning+New+Things;Undergrade+in+AI+%26+Data+Science+%40+IIT+Jodhpur;Exploring+AI%2C+Math+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Always+Learning+New+Things;Undergrad+in+AI+%26+Data+Science+%40+IIT+Jodhpur;Exploring+AI%2C+Math+%26+Machine+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🎓 **Undergrade in AI and Data Science** student at **IIT Jodhpur**
+- 🎓 **Undergrad in AI and Data Science** student at **IIT Jodhpur**
 - 🤖 Currently focused on **AI Engineering** and **Problem Solving**
 - 🧮 Deeply drawn to the **math behind the models**
 - 🌱 Actively contributing to **Open Source**
