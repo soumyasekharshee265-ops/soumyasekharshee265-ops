@@ -45,12 +45,14 @@
 **Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,pytest" />
 </p>
 
 **Data Analysis**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+</p>
 <p>
   <img src="https://img.shields.io/badge/EDA-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Cleaning-6C63FF?style=for-the-badge" />
@@ -61,16 +63,22 @@
 **Visualization & Reporting**
 
 <p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flourish-FF6B6B?style=for-the-badge" />
+</p>
+<p>
+  <img height="28" src="https://flourish.studio/images/Flourish_Logo_Black_small.png" /> <b>Flourish</b>
 </p>
 
 **Mathematical Skills**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+</p>
 <p>
   <img src="https://img.shields.io/badge/Calculus-2E8B57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Probability-2E8B57?style=for-the-badge" />
@@ -79,6 +87,10 @@
 </p>
 
 **Machine Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
 
 <p><i>Supervised</i></p>
 <p>
@@ -104,6 +116,7 @@
 **DSA**
 
 <p>
+  <img height="28" src="https://twemoji.maxcdn.com/v/latest/72x72/1f578.png" />
   <img src="https://img.shields.io/badge/Graphs-8A2BE2?style=for-the-badge" />
 </p>
 
@@ -112,9 +125,12 @@
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Orange-FF7800?style=for-the-badge" />
   <img src="https://img.shields.io/badge/KNIME-FFF500?style=for-the-badge&logo=knime&logoColor=black" />
-  <img src="https://img.shields.io/badge/WEKA-2E7D32?style=for-the-badge" />
+</p>
+<p>
+  <img height="28" src="https://orangedatamining.com/_next/static/media/logo-orange.faff1861.svg" />
+  &nbsp;&nbsp;
+  <img height="28" src="https://twemoji.maxcdn.com/v/latest/72x72/1f426.png" /> <b>WEKA</b>
 </p>
 
 ---
@@ -143,39 +159,6 @@ Ready to contribute to projects that make a difference
 
 ---
 
-### 📌 Featured Projects
-
-#### 🧾 Billing System
-A Flask-based smart billing web app for small businesses — handles customer management, product billing with auto-calculated totals, discount support, auto-generated receipts, a sales dashboard, and secure login, all backed by lightweight JSON storage.
-`Python` `Flask` `HTML/CSS/JS`
-🔗 Repo: https://github.com/soumyasekharshee265-ops/Billing-System
-🌐 https://billing-system-rho-drab.vercel.app/
-
-#### 🤖 QuickHire Pro
-A conversational pre-screening chatbot that guides candidates through an 11-step application flow — covering role, experience, skills, and availability — then generates a clean, copyable application summary in seconds.
-`HTML5` `CSS3` `JavaScript`
-🔗 Repo: https://github.com/soumyasekharshee265-ops/Quick-Hire-Pro
-🌐 https://quick-hire-pro.netlify.app/
-
-#### 💬 HireMe.bot
-A smart chatbot web app that automates candidate pre-screening through an adaptive, conversational flow, delivering structured, review-ready responses instantly.
-`HTML5` `CSS3` `JavaScript` `Wotnot Chatbot Widget`
-🔗 Repo: https://github.com/soumyasekharshee265-ops/Hireme.bot
-🌐 https://hireme-jobscreening-chatbot.netlify.app/
-
-#### 📄 JobScan AI
-An AI-powered resume screening web app that evaluates candidates through a simple chat interface, delivering instant match scores, skill gap analysis, and structured hiring recommendations — Shortlist, Hold, or Reject.
-`HTML5` `CSS3` `JavaScript`
-🔗 Repo: https://github.com/soumyasekharshee265-ops/JobScan-AI
-🌐 https://jobscan-ai-chatbot.netlify.app/
-
-#### 🌿 Arogya Krishi
-A symptom-based plant disease diagnosis system for Indian farmers — describe what you observe and get an instant expert-rule-based diagnosis with low-cost, organic-first treatment plans. Covers 10 diseases with 30+ expert rules, fully mobile accessible.
-`HTML` `Tailwind CSS` `JavaScript` `Flowise`
-🔗 Repo: https://github.com/soumyasekharshee265-ops/Arogya-Krishi
-🌐 https://arogya-krishi-45938d.netlify.app/
-
----
 
 ### 📊 GitHub Stats & Activity
 
