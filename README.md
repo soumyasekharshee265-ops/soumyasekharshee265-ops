@@ -131,59 +131,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-<br>
-
-#### 🧾 Billing System
-Smart billing web app for small businesses — customer management, auto-calculated totals, discount support, auto-generated receipts, and a sales dashboard, all backed by lightweight JSON storage.
-
-`Python` `Flask` `HTML/CSS/JS`
-
-🔗 https://github.com/soumyasekharshee265-ops/Billing-System<br>
-🌐 https://billing-system-rho-drab.vercel.app/
-
-<br>
-
-#### 🤝 QuickHire Pro
-Conversational pre-screening chatbot that guides candidates through an 11-step application flow — role, experience, skills, availability — then generates a clean, copyable application summary in seconds.
-
-`HTML5` `CSS3` `JavaScript`
-
-🔗 https://github.com/soumyasekharshee265-ops/Quick-Hire-Pro<br>
-🌐 https://quick-hire-pro.netlify.app/
-
-<br>
-
-#### 💬 HireMe.bot
-Smart chatbot web app that automates candidate pre-screening through an adaptive, conversational flow, delivering structured, review-ready responses instantly.
-
-`HTML5` `CSS3` `JavaScript` `Wotnot Chatbot Widget`
-
-🔗 https://github.com/soumyasekharshee265-ops/Hireme.bot<br>
-🌐 https://hireme-jobscreening-chatbot.netlify.app/
-
-<br>
-
-#### 📄 JobScan AI
-AI-powered resume screening web app that evaluates candidates through a simple chat interface, delivering instant match scores, skill-gap analysis, and structured hiring recommendations.
-
-`HTML5` `CSS3` `JavaScript`
-
-🔗 https://github.com/soumyasekharshee265-ops/JobScan-AI<br>
-🌐 https://jobscan-ai-chatbot.netlify.app/
-
-<br>
-
-#### 🌾 Arogya Krishi
-Symptom-based plant disease diagnosis system for Indian farmers — describe what you observe and get an instant expert-rule-based diagnosis with low-cost, organic-first treatment plans. Covers 10 diseases with 30+ expert rules, fully mobile accessible.
-
-`HTML` `Tailwind CSS` `JavaScript` `Flowise`
-
-🔗 https://github.com/soumyasekharshee265-ops/Arogya-Krishi<br>
-🌐 https://arogya-krishi-45938d.netlify.app/
-
----
 
 ### 📊 GitHub Stats
 
