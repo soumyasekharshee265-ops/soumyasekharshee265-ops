@@ -18,7 +18,7 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🎓 **B.Sc in AI and Data Science** student at **IIT Jodhpur**
+- 🎓 **Undergrade in AI and Data Science** student at **IIT Jodhpur**
 - 🤖 Currently focused on **AI Engineering** and **Problem Solving**
 - 🧮 Deeply drawn to the **math behind the models**
 - 🌱 Actively contributing to **Open Source**
